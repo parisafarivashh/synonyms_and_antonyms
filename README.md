@@ -1,4 +1,4 @@
-### Dictionary bot telegram
+### Dictionary bot telegram with python
 
 
 ### WordNet
